@@ -5,13 +5,13 @@
 
 - 👨‍💻 Premier projet de formation full stack (React/Laravel/Material-UI) [Musclay](https://musclay.web.app/)
 
-- 🌱 J'approfondis mes compétences dans une formation pour apprendre **Node/Express/PostgreSQL/MongoDB**
+- 🌱 J'approfondis mes compétences dans une formation pour apprendre **Node / Express / PostgreSQL / MongoDB**
 
 - 👨‍💻 Création et réalisation d'un jeu (JS vanilla) [Mot Mystére](https://frederic-betaouaf-motmystere.netlify.app/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/frédéric-betaouaf/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/frédéric-betaouaf/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/fr%c3%a9d%c3%a9ric-betaouaf/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/fr%c3%a9d%c3%a9ric-betaouaf/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
