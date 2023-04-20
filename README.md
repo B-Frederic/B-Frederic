@@ -1,3 +1,4 @@
+<h1 align="center">Bonjour 👋 je m'appelle Frédéric Bétaouaf</h1>
 <h3 align="center">Développeur web/web mobile (spécialisé frontend)</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=b-frederic&label=Profile%20views&color=0e75b6&style=flat" alt="b-frederic" /> </p>
