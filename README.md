@@ -1,13 +1,13 @@
-<h1 align="center">Bonjour 👋 je m'appelle Frédéric Bétaouaf</h1>
+<h1 align="center">Bonjour 👋</h1>
 <h3 align="center">Développeur web/web mobile (spécialisé frontend)</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=b-frederic&label=Profile%20views&color=0e75b6&style=flat" alt="b-frederic" /> </p>
 
-- 👨‍💻 Premier projet de formation full stack (React/Laravel/Material-UI) [Musclay](https://musclay.web.app/)
+- 👨‍💻 Premier projet de formation full stack (React/Laravel/Material-UI) --> [Musclay](https://musclay.web.app/)
 
 - 🌱 J'approfondis mes compétences dans une formation pour apprendre **Node / Express / PostgreSQL / MongoDB**
 
-- 👨‍💻 Création et réalisation d'un jeu (JS vanilla) [Mot Mystére](https://frederic-betaouaf-motmystere.netlify.app/)
+- 👨‍💻 Création et réalisation d'un jeu (JS vanilla) --> [Mot Mystére](https://frederic-betaouaf-motmystere.netlify.app/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
