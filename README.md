@@ -1,7 +1,7 @@
 <h1 align="center">👋Bienvenue sur mon profil Github👋</h1>
 <h2 align="center">Développeur web  & Web mobile (spécialisé Frontend)</h2>
 <p align="center" marginTop="50">
-<a href="https://github.com/B-Frederic" target="_blank"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" height="25" alt="badge github b-frederic"></a>
+<a href="https://github.com/B-Frederic" target="_blank"><img src="https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white" height="25" alt="badge github b-frederic"></a>
 <a href="https://www.linkedin.com/in/frederic-betaouaf/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white" height="25" alt="badge linkedin b-frederic"></a>
 <img src="https://komarev.com/ghpvc/?username=b-frederic&label=Profile%20views&color=0e75b6&style=flat" height="25" alt="b-frederic" />
 </p>
@@ -23,7 +23,7 @@
 **Langages et Outils:**
 <p>
   <a href="https://github.com/B-Frederic/handle-path-oz">
-    <img height="100%" align="right" alt="B-Frederic git stats" src="https://github-readme-stats.vercel.app/api?username=B-Frederic&show_icons=true&theme=codeSTACKr" />
+    <img width="50%" align="right" alt="B-Frederic git stats" src="https://github-readme-stats.vercel.app/api?username=B-Frederic&show_icons=true&theme=codeSTACKr" />
   </a>
   
 *Primaire :*
