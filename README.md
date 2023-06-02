@@ -1,13 +1,19 @@
 <h1 align="center">Bonjour 👋</h1>
-<h3 align="center">Développeur web/web mobile (spécialisé frontend)</h3>
+<h3 align="center">Développeur web  & Web mobile (spécialisé Frontend)</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=b-frederic&label=Profile%20views&color=0e75b6&style=flat" alt="b-frederic" /> </p>
 
-- 👨‍💻 Premier projet de formation full stack (React/Laravel/Material-UI) --> [Musclay](https://musclay.web.app/)
-
 - 🌱 J'approfondis mes compétences dans une formation pour apprendre **Node / Express / PostgreSQL / MongoDB**
 
-- 👨‍💻 Création et réalisation d'un jeu (JS vanilla) --> [Mot Mystére](https://frederic-betaouaf-motmystere.netlify.app/)
+- 👨‍💻 Premier projet de formation full stack (React/Laravel/Material-UI) --> [Musclay](https://musclay.web.app/)
+
+- 👨‍💻 Création et réalisation d'un jeu --> [Mot Mystére](https://frederic-betaouaf-motmystere.netlify.app/)
+
+- 👨‍💻 Réalisation d'un site E-commerce --> [MonShop](https://frederic-monshop.web.app/)
+
+- 👨‍💻 Réalisation d'un site E-commerce --> [Beauty](https://frederic-b-beauty-shop.netlify.app/)
+
+- 👨‍💻 Réalisation d'un site E-commerce --> [Shop Shoes](https://frederic-b-shop-shoes.netlify.app/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
