@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=b-frederic&label=Profile%20views&color=0e75b6&style=flat" alt="b-frederic" /> </p>
 
-- 🌱 J'approfondis mes compétences dans une formation pour apprendre **Node / Express / PostgreSQL / MongoDB**
+<p align="center>Je suis développeur web depuis plus d'un an et je me spécialise principalement en front. Certains projets personnel fullstack (React/Node/MongoDB) seront bientôt ajoutés à la liste des sites.</p>
 
 - 👨‍💻 Premier projet de formation full stack (React/Laravel/Material-UI) --> [Musclay](https://musclay.web.app/)
 
