@@ -23,7 +23,7 @@
 **Langages et Outils:**
 <p>
   <a href="https://github.com/B-Frederic/handle-path-oz">
-    <img height="80%" align="right" alt="B-Frederic git stats" src="https://github-readme-stats.vercel.app/api?username=B-Frederic&show_icons=true&hide_border=true" />
+    <img height="100%" align="right" alt="B-Frederic git stats" src="https://github-readme-stats.vercel.app/api?username=B-Frederic&show_icons=true&theme=codeSTACKr" />
   </a>
   
 *Primaire :*
