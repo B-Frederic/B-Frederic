@@ -7,8 +7,9 @@
 <img src="https://komarev.com/ghpvc/?username=b-frederic&label=Profile%20views&color=0e75b6&style=flat" height="25" alt="b-frederic" />
 </p>
 
-<p>Je travails comme développeur web & web mobile depuis plus d'un an et je me spécialise principalement dans le frontend.</p>
-<p>C'est une vraie passion grandissante que j'ai depuis mes débuts dans le web. Je fais également du Blender et Three.js en autodidacte à titre de loisir et pour accroître mon panel de compétence.</p>
+**Je travails comme développeur web & web mobile depuis plus d'un an et je me spécialise principalement dans le frontend.**
+
+**C'est une vraie passion grandissante que j'ai depuis mes débuts dans le web. Je fais également du Blender et Three.js en autodidacte à titre de loisir et pour accroître mon panel de compétence.**
 
 - 👨🏽‍💻 Premier projet de formation (full stack) --> [Musclay](https://musclay.web.app/)
 
