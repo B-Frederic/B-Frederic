@@ -22,7 +22,7 @@
 
 
 
-**Langages et Outils:**
+<h3>Langages et Outils:</h3>
 <p>
   <a href="https://github.com/B-Frederic/handle-path-oz">
     <img height="80%" align="right" alt="B-Frederic git stats" src="https://github-readme-stats.vercel.app/api?username=B-Frederic&show_icons=true&hide_border=true" />
