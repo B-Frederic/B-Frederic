@@ -20,11 +20,24 @@
 
 - 💻 Réalisation d'un site E-commerce --> [Shop Shoes](https://frederic-b-shop-shoes.netlify.app/)
 
-<h3>Langages et Outils:</h3>
+**Langages et Outils:**
 <p>
   <a href="https://github.com/B-Frederic/handle-path-oz">
     <img height="80%" align="right" alt="B-Frederic git stats" src="https://github-readme-stats.vercel.app/api?username=B-Frederic&show_icons=true&hide_border=true" />
   </a>
+  
+*Primaire :*
+  
 <img 
-src="https://skillicons.dev/icons?i=react,redux,sass,js,css,bootstrap,tailwind,materialui,php,laravel,mysql,nodejs,postgres,express,mongodb,sequelize,postman,vscode,firebase,netlify,figma,webpack,vite,github,linux,powershell,blender,threejs&perline=5" />
+src="https://skillicons.dev/icons?i=react,redux,nodejs,express,mongodb,sass,js,css,tailwind,vscode,firebase,netlify,webpack,vite,github,linux,powershell,figma&perline=5" />
+
+*Secondaire :*
+
+<img 
+src="https://skillicons.dev/icons?i=bootstrap,materialui,php,laravel,mysql,postgres,sequelize,postman&perline=5" />
+
+*Loisir :*
+  
+<img 
+src="https://skillicons.dev/icons?i=blender,threejs&perline=5" />
 </p>
