@@ -8,7 +8,7 @@
 
 **Je travails comme développeur web & web mobile depuis plus d'un an et je me spécialise principalement dans le frontend.**
 
-**C'est une vraie passion grandissante que j'ai depuis mes débuts dans le web. Je fais également du Blender et Three.js en autodidacte à titre de loisir et pour accroître mon panel de compétence.**
+**C'est une vraie passion que j'ai depuis mes débuts dans le web. Je vous laisse parcourir le profil pour en découvrir davantage.**
 
 - 👨🏽‍💻 Premier projet de formation (full stack) --> [Musclay](https://musclay.web.app/)
 
