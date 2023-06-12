@@ -20,6 +20,8 @@
 
 - 💻 Réalisation d'un site E-commerce --> [Shop Shoes](https://frederic-b-shop-shoes.netlify.app/)
 
+- 💻 Réalisation d'un Dashboard --> [Dashboard](https://frederic-b-dashboard.netlify.app/)
+
 **Portfolio**
 
 - :briefcase: Création et réalisation de mon Portfolio --> [Portfolio](https://frederic-betaouaf-portfolio.netlify.app/)
