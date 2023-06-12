@@ -12,7 +12,7 @@
 
 - 👨🏽‍💻 Premier projet de formation (full stack) --> [Musclay](https://musclay.web.app/)
 
-- 👨🏽‍💻 Création et réalisation d'un jeu --> [Mot Mystére](https://frederic-betaouaf-motmystere.netlify.app/)
+- 💻 Création et réalisation d'un jeu --> [Mot Mystére](https://frederic-betaouaf-motmystere.netlify.app/)
 
 - 💻 Réalisation d'un site E-commerce --> [MonShop](https://frederic-monshop.web.app/)
 
