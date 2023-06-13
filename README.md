@@ -10,17 +10,17 @@
 
 **C'est une vraie passion que j'ai depuis mes débuts dans le web. Je vous laisse parcourir le profil pour en découvrir davantage.**
 
-- 👨🏽‍💻 Premier projet de formation (full stack) --> [Musclay](https://musclay.web.app/)
+- 👨🏽‍💻 Premier projet de formation (React / Redux / Laravel / Material-UI) --> [Musclay](https://musclay.web.app/)
 
-- 💻 Création et réalisation d'un jeu --> [Mot Mystére](https://frederic-betaouaf-motmystere.netlify.app/)
+- 💻 Création et réalisation d'un jeu (JS vanilla / CSS) --> [Mot Mystére](https://frederic-betaouaf-motmystere.netlify.app/)
 
-- 💻 Réalisation d'un site E-commerce --> [MonShop](https://frederic-monshop.web.app/)
+- 💻 Réalisation d'un site E-commerce (React / Redux Toolkit / Express / Tailwind) --> [MonShop](https://frederic-monshop.web.app/)
 
-- 💻 Réalisation d'un site E-commerce --> [Beauty](https://frederic-b-beauty-shop.netlify.app/)
+- 💻 Réalisation d'un site E-commerce (React / Redux Toolkit/ Sass) --> [Beauty](https://frederic-b-beauty-shop.netlify.app/)
 
-- 💻 Réalisation d'un site E-commerce --> [Shop Shoes](https://frederic-b-shop-shoes.netlify.app/)
+- 💻 Réalisation d'un site E-commerce (React / Redux Toolkit / Tailwind) --> [Shop Shoes](https://frederic-b-shop-shoes.netlify.app/)
 
-- 💻 Réalisation d'un Dashboard --> [Dashboard](https://frederic-b-dashboard.netlify.app/)
+- 💻 Réalisation d'un Dashboard (React / CSS) --> [Dashboard](https://frederic-b-dashboard.netlify.app/)
 
 **Portfolio**
 
