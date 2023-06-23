@@ -10,7 +10,9 @@
 
 **C'est une vraie passion que j'ai depuis mes débuts dans le web. Je vous laisse parcourir le profil pour en découvrir davantage.**
 
-- 👨🏽‍💻 Premier projet de formation (React / Redux / Laravel / Material-UI) --> [Musclay](https://musclay.web.app/)
+**Projets**
+
+- 💻 Projet de formation (React / Redux / Laravel / Material-UI) --> [Musclay](https://musclay.web.app/)
 
 - 💻 Création et réalisation d'un jeu (JS vanilla / CSS) --> [Mot Mystére](https://frederic-betaouaf-motmystere.netlify.app/)
 
@@ -21,6 +23,14 @@
 - 💻 Réalisation d'un site E-commerce (React / Redux Toolkit / Tailwind) --> [Shop Shoes](https://frederic-b-shop-shoes.netlify.app/)
 
 - 💻 Réalisation d'un Dashboard (React / CSS) --> [Dashboard](https://frederic-b-dashboard.netlify.app/)
+
+- 💻 Réalisation d'un site vitrine (Next / Typescript / Tailwind) --> [Carhub](https://frederic-b-showcase-cars.vercel.app/)
+
+- 💻 Réalisation d'un site vitrine (React / SCSS) --> [Voyage](https://frederic-b-showcase-travel.netlify.app/)
+
+**3D**
+
+- 👨🏽‍💻 Réalisation d'un projet 3D (Threejs) --> [Cimetière Hanté](https://frederic-b-haunted-graveyard.netlify.app/)
 
 **Portfolio**
 
