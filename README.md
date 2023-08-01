@@ -1,5 +1,5 @@
 <h1 align="center">👋Bienvenue sur mon profil Github👋</h1>
-<h2 align="center">Développeur web  & Web mobile (spécialisé Frontend)</h2>
+<h2 align="center">Développeur web  Frontend (Freelance)</h2>
 <p align="center" marginTop="50">
 <a href="https://github.com/B-Frederic" target="_blank"><img src="https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white" height="25" alt="badge github b-frederic"></a>
 <a href="https://www.linkedin.com/in/frederic-betaouaf/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white" height="25" alt="badge linkedin b-frederic"></a>
