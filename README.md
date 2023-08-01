@@ -6,9 +6,11 @@
 <img src="https://komarev.com/ghpvc/?username=b-frederic&label=Profile%20views&color=0e75b6&style=flat" height="25" alt="b-frederic" />
 </p>
 
-**Je travails comme développeur web & web mobile depuis plus d'un an et je me spécialise principalement dans le frontend.**
+**Je suis Développeur Frontend en Freelance.**
 
-**C'est une vraie passion que j'ai depuis mes débuts dans le web. Je vous laisse parcourir le profil pour en découvrir davantage.**
+**Le développement web est une vraie passion grandissante que j'ai depuis mes débuts en 2021.**
+
+**Je vous laisse découvrir mes projets et compétences.**
 
 **Projets**
 
@@ -42,17 +44,17 @@
     <img width="50%" align="right" alt="B-Frederic git stats" src="https://github-readme-stats.vercel.app/api?username=B-Frederic&show_icons=true&theme=codeSTACKr" />
   </a>
   
-*Primaire :*
+*Principaux :*
   
 <img 
-src="https://skillicons.dev/icons?i=react,redux,nodejs,express,mongodb,sass,js,css,tailwind,vscode,firebase,netlify,webpack,vite,github,linux,powershell,figma&perline=5" />
+src="https://skillicons.dev/icons?i=react,redux,sass,js,ts,css,tailwind,vscode,firebase,netlify,webpack,vite,github,linux,powershell&perline=5" />
 
 *Secondaire :*
 
 <img 
-src="https://skillicons.dev/icons?i=bootstrap,materialui,php,laravel,mysql,postgres,sequelize,postman&perline=5" />
+src="https://skillicons.dev/icons?i=bootstrap,materialui,nodejs,express,mongodb,php,laravel,mysql,postgres,sequelize,postman,figma&perline=5" />
 
-*Loisir :*
+*À titre personnel :*
   
 <img 
 src="https://skillicons.dev/icons?i=blender,threejs&perline=5" />
